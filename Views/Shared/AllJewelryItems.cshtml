@@ -1,0 +1,11 @@
+﻿@model JewelryItem
+
+<div class="row col-lg-3">
+    <div><img src="@Model.Img" alt="@Model.Name" width="500" height="600" /></div>
+    <h3>@Model.Category.NameCategory "@Model.Name"</h3>
+    <p>Ціна: @Model.Price.ToString() грн.</p>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <p><a class="btn btn-outline-warning" type="button" asp-controller="ShopCart" asp-action="addToCart" asp-route-Id="@Model.Id">Додати до корзини</a></p>
+    }
+</div>

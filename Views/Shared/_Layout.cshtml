@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+@*
+Основний файл сайту, куди підставляються інші шаблони
+*@
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
+        <div class="col-md-3 mb-2 mb-md-0">
+            <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
+            </a>
+        </div>
+        <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+            <li><a asp-controller="Home" asp-action="Index" class="nav-link px-2 link-secondary">Улюблені прикраси</a></li>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li><a asp-controller="ShopCart" asp-action="Index" class="nav-link px-2">Корзина</a></li>
+            }
+                <li><a asp-controller="JewelryItems" asp-action="List" class="nav-link px-2">Усі Прикраси</a></li>
+                <li><a href="#" class="nav-link px-2">FAQs</a></li>
+                <li><a href="#" class="nav-link px-2">About</a></li>
+            </ul>
+
+        <div class="col-md-3 text-end">
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <a type="button" class="btn btn-outline-primary me-2" asp-controller="Account" asp-action="Login">Авторизація</a>
+                <a type="button" class="btn btn-primary" asp-controller="Account" asp-action="Register">Реєстрація</a>
+            }
+            else { 
+                <a type="button" class="btn btn-danger" asp-controller="Account" asp-action="Logout">Вихід</a>
+            }
+        </div>
+    </header>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer class="py-3 my-4">
+        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Features</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Pricing</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQs</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
+        </ul>
+        <p class="text-center text-body-secondary">© 2023 Jewelry shop, Inc</p>
+    </footer>
+    <script src="~/js/bootstrap.min.js"></script>
+</body>
+</html>

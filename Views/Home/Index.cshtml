@@ -1,0 +1,15 @@
+﻿@model HomeViewModel
+
+
+<div>
+    <h2>Кращі прикраси</h2>
+    <div class="row mt-5 mb-2">
+        @{
+            foreach (JewelryItem jewelryitem in Model.favJewelryItems)
+            {
+                @Html.Partial("AllJewelryItems", jewelryitem)
+            }
+
+        }
+    </div>
+</div>

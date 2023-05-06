@@ -1,0 +1,34 @@
+﻿
+<div>
+    <h2>Усі прикраси</h2>
+    <h3>@Model.CurrCategory</h3>
+    <div class="row mt-5 mb-2">
+        @{
+            foreach (JewelryItem jewelryitem in Model.AllJewelryItems)
+            {
+                @Html.Partial("AllJewelryItems", jewelryitem)
+            }
+        }
+    </div>
+</div>
+
+
+
+@*
+    <div class="row col-lg-3">
+        <div><img src="@jewelryitem.Img" alt="@jewelryitem.Name" width="500" height="600" /></div>
+        <h3>@jewelryitem.Category.NameCategory "@jewelryitem.Name"</h3>
+        <p>Ціна: @jewelryitem.Price.ToString() грн.</p>
+    </div>
+*@
+
+@*
+@{
+        foreach (var jewelryitem in Model) {
+            <div>
+                <img src="@jewelryitem.Img" alt="@jewelryitem.Name" width="500" height="600" />
+                <h3>@jewelryitem.Category.NameCategory "@jewelryitem.Name"</h3>
+                <p>Ціна: @jewelryitem.Price.ToString() грн.</p>
+            </div>
+        }
+    }*@

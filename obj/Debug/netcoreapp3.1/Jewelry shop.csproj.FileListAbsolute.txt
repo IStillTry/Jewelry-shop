@@ -1,0 +1,168 @@
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Jewelry shop.exe
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Jewelry shop.deps.json
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Jewelry shop.runtimeconfig.json
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Jewelry shop.runtimeconfig.dev.json
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Jewelry shop.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Jewelry shop.pdb
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.csproj.AssemblyReference.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.AssemblyInfoInputs.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.AssemblyInfo.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.csproj.CoreCompileInputs.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\staticwebassets\Jewelry shop.StaticWebAssets.Manifest.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.RazorTargetAssemblyInfo.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.csproj.CopyComplete
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.pdb
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.genruntimeconfig.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Jewelry shop.Views.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Jewelry shop.Views.pdb
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.RazorAssemblyInfo.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.RazorAssemblyInfo.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.TagHelpers.input.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.TagHelpers.output.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.RazorCoreGenerate.cache
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\JewelryItems\List.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.RazorTargetAssemblyInfo.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Jewelry shop.Views.pdb
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\dbsettings.json
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Json.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\libman.json
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\global.json
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\staticwebassets\Jewelry shop.StaticWebAssets.xml
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Jewelry shop.styles.css
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllJewelryItems.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\.Net ASP Projects\JewelryShop3Course\JewelryShop\Jewelry shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
