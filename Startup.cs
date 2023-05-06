@@ -12,6 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using Jewelry_shop.Data.Repository;
 using Jewelry_shop.Data.Models;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Web;
 
 namespace Jewelry_shop
 {
@@ -19,7 +20,7 @@ namespace Jewelry_shop
     {
 
         private IConfigurationRoot _confString; /*змінна для створення конекшену з БД*/
-
+       
         public Startup (Microsoft.AspNetCore.Hosting.IHostingEnvironment hostEnv) {
             _confString = new ConfigurationBuilder().SetBasePath(hostEnv.ContentRootPath).AddJsonFile("dbsettings.json").Build(); /* встановлення конекшену з БД*/
         }
